@@ -1,0 +1,94 @@
+@media(max-width:576px) {
+    .navbar img {
+        width: 20%;
+    }
+
+
+    .navbar button {
+        margin: 0 !important;
+    }
+
+    #home h1 {
+        color: #fff;
+        font-size: 60px;
+        letter-spacing: 3px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-shadow: 0px 1px 0px #CCC, 0px 2px 0px #CCC, 0px 3px 0px #CCC, 0px 4px 0px #CCC, 0px 5px 0px #CCC, 0px 6px 0px #CCC, 0px 7px 0px #CCC;
+    }
+
+    #home p {
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+
+    #home .input-group {
+        width: 90%;
+        height: 45px;
+    }
+
+    .signin {
+        background-color: green !important;
+        color: white !important;
+        box-shadow: 2px 4px 5px rgba(0, 0, 0, .3);
+    }
+
+    .row img {
+        width: 80%;
+    }
+
+    #about {
+        background: linear-gradient(#ea1d6f, #eb466b 50%);
+        text-align: center;
+    }
+
+    #about h1 {
+        font-weight: 800;
+        font-size: 50px;
+        color: white;
+    }
+
+    #about {
+        color: white;
+    }
+
+    #product {
+        background-color: #e5e5e5;
+    }
+
+    #product h1 {
+        font-size: 50px;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+
+    #product img {
+        width: 220px;
+        height: 200px;
+    }
+
+    .card {
+        width: 250px;
+        height: 350px;
+        background: #e5e5e5 !important;
+        border: none !important;
+        box-shadow: 15px 20px 20px rgba(0, 0, 0, .3),
+            inset 4px 4px 10px white;
+        border-radius: 20px !important;
+        overflow: hidden;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 60px;
+    }
+
+
+    footer {
+        padding: 10px 30px;
+        background-color: #e5e5e5;
+    }
+
+    footer p {
+
+        padding: 20px;
+    }
+}
